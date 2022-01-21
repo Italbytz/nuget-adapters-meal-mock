@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italbytz.Adapters.Meal.Mock", "Italbytz.Adapters.Meal.Mock\Italbytz.Adapters.Meal.Mock.csproj", "{5F2DBD75-9BA9-4966-BB8A-705B428A5111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Italbytz.Adapters.Meal.Mock.Tests", "Italbytz.Adapters.Meal.Mock.Tests\Italbytz.Adapters.Meal.Mock.Tests.csproj", "{925C6382-DE42-48BB-AF71-6AE1D5FDD478}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F2DBD75-9BA9-4966-BB8A-705B428A5111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2DBD75-9BA9-4966-BB8A-705B428A5111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2DBD75-9BA9-4966-BB8A-705B428A5111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2DBD75-9BA9-4966-BB8A-705B428A5111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{925C6382-DE42-48BB-AF71-6AE1D5FDD478}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{925C6382-DE42-48BB-AF71-6AE1D5FDD478}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{925C6382-DE42-48BB-AF71-6AE1D5FDD478}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{925C6382-DE42-48BB-AF71-6AE1D5FDD478}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {298E4360-648C-4CD9-8289-A9A83496CBA1}
+	EndGlobalSection
+EndGlobal
